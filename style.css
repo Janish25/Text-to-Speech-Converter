@@ -77,3 +77,14 @@ textarea {
     position: absolute;
     filter: invert();
   }
+
+ 
+@media screen and (max-width: 360px) {
+   
+    .container {
+        width: 90%;
+    }
+    button{
+        margin-top: 72px;
+    }
+}
